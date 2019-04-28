@@ -6,9 +6,9 @@
 Установка содержимого:
 Скачать Python 3.x: https://www.python.org/downloads/
 
-Если необходимо pip то в коммандной строке напишите: pip install pip
+Если необходимо pip то в коммандной строке напишите: pip install pip.
 
-Далее необходимо установить VK API: pip install vk_api
+Далее необходимо установить VK API: pip install vk_api.
 
 -------------------------
 
